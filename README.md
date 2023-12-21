@@ -4,5 +4,4 @@ To identify the best countries and a suitable investment type for making the inv
 language used -python
 
 library used:
--pandas
--numpy
+-pandas,numpy
